@@ -7,7 +7,7 @@
     <Civ>kush</Civ>
     <GenericName>Temple of Apedemak</GenericName>
     <SpecificName>Temple of Apedemak</SpecificName>
-    <Classes datatype="tokens">Apedemak</Classes>
+    <Classes datatype="tokens">TempleOfApedemak</Classes>
   </Identity>
   <Footprint>
     <Square width="24.0" depth="36.0"/>
