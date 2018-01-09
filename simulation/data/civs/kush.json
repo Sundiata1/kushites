@@ -126,6 +126,11 @@
 			"Template": "units/kush_cavalry_javelinist_b"
 		}
 	],
+	"WallSets":
+	[
+		"other/wallset_palisade",
+		"structures/kush_wallset_stone"
+	],
 	"Formations":
 	[
 		"special/formations/null",

@@ -16,12 +16,16 @@
       units/{civ}_champion_infantry
       units/{civ}_champion_cavalry
       units/{civ}_champion_elephant
-	    units/{civ}_hero_nastasen
-	    units/{civ}_hero_amanirenas
-	    units/{civ}_hero_arakamani
+      units/{civ}_hero_nastasen
+      units/{civ}_hero_amanirenas
+      units/{civ}_hero_arakamani
     </Entities>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/kushites/fortress.xml</Actor>
   </VisualActor>
+  <WallPiece>
+    <Length>28.5</Length>
+    <Indent>6.7</Indent>
+  </WallPiece>
 </Entity>

@@ -45,6 +45,6 @@
     <Actor>structures/kushites/wall_long.xml</Actor>
   </VisualActor>
   <WallPiece>
-    <Length>38.0</Length>
+    <Length>34.9</Length>
   </WallPiece>
 </Entity>
