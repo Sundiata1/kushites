@@ -1,15 +1,19 @@
 {
-	"genericName": "Monumental Architecture",
-	"cost": { "food": 0, "wood": 500, "stone": 250, "metal": 250 },
-	"requirements": { "all": [{ "tech": "phase_city" }, { "civ": "kush" }] },
+	"genericName": "High Priest of Amun",
+	"description": "Have your priests instructed by the High Priest himself - may Amun bless him.",
+	"cost": { "food": 500, "wood": 0, "stone": 0, "metal": 500 },
+	"requirements": {
+		"all": [
+			{ "tech": "phase_city" }, { "civ": "kush" }]
+	},
 	"requirementsTooltip": "Unlocked in City Phase.",
-	"icon": "pers_hundred_columns.png",
+	"icon": "high_priest.png",
 	"researchTime": 60,
-	"tooltip": "+50% HP and -50% build time for Civic Centres, Temples, Pyramids and Wonders.",
+	"tooltip": "Train elite rank healers.",
 	"modifications": [
-		{ "value": "Health/Max", "multiply": 1.5 },
-		{ "value": "Cost/BuildTime", "multiply": 0.5 }
+		{ "value": "Promotion/RequiredXp", "replace": 0, "affects": "Basic" },
+		{ "value": "Promotion/RequiredXp", "replace": 0, "affects": "Advanced" }
 	],
-	"affects": ["CivilCentre", "Wonder", "Pyramid"],
-	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml",
+	"affects": ["Healer"]
 }
