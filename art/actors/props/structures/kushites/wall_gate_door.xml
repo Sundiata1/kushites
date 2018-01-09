@@ -13,9 +13,6 @@
       <textures>
         <texture file="props/hele_gate.png" name="baseTex"/>
       </textures>
-      <props>
-        <prop actor="structures/kushites/wall_gate.xml" attachpoint="root"/>
-      </props>
     </variant>
   </group>
   <group>
