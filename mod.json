@@ -3,5 +3,6 @@
 	"version": "0.0.23",
 	"label": "Kushites",
 	"description": "This mod features the kushite civ",
+	"url": "https://github.com/0ADMods/kushites",
 	"dependencies": ["0ad=0.0.23"]
 }
