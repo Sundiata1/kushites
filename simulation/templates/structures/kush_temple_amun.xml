@@ -34,8 +34,7 @@
       units/{civ}_champion_infantry_amun
     </Entities>
     <Technologies datatype="tokens">
-		kushites/monumental_architecture
-		kushites/upgrade_rank_elite_healer
+      kushites/upgrade_rank_elite_healer
     </Technologies>
   </ProductionQueue>
   <VisualActor>
