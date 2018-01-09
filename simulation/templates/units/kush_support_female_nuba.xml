@@ -8,7 +8,7 @@
     <GenericName>Nuba Woman</GenericName>
     <Icon>units/kush_support_female_nuba.png</Icon>
     <SelectionGroupName>units/kush_support_female_nuba</SelectionGroupName>
-    <RequiredTechnology>kushites/unlock_females_house</RequiredTechnology>
+    <RequiredTechnology>unlock_females_house</RequiredTechnology>
   </Identity>
   <VisualActor>
     <Actor>units/kushites/nuba_woman.xml</Actor>

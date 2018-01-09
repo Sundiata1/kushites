@@ -7,7 +7,7 @@
   <ProductionQueue>
     <Technologies datatype="tokens">
       -unlock_females_house
-	    kushites/unlock_females_house
+	    unlock_females_house
     </Technologies>
   </ProductionQueue>
   <VisualActor>
