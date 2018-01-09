@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Apedemak"],
+	"affects": ["TempleOfApedemak"],
 	"modifications": [
 		{ "value": "Cost/Resources/food", "multiply": 0.8 },
 		{ "value": "Cost/Resources/wood", "multiply": 0.8 },
