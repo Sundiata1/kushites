@@ -4,11 +4,6 @@
     <Civ>kush</Civ>
     <SpecificName>Kushite Manor</SpecificName>
   </Identity>
-  <ProductionQueue>
-    <Technologies datatype="tokens">
-	    unlock_females_house
-    </Technologies>
-  </ProductionQueue>
   <VisualActor>
     <Actor>structures/kushites/house.xml</Actor>
   </VisualActor>
