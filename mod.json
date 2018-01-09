@@ -1,0 +1,7 @@
+{
+	"name": "Kushite Test II",
+	"version": "0.0.23",
+	"label": "This mod features the kushite civ",
+	"dependencies": ["0ad=0.0.23"],
+	"type": "game"
+}

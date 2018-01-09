@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" file="quadraped/base_camel.xml" name="Base">
+      <mesh>skeletal/camel_1.dae</mesh>
+      <props>
+        <prop actor="props/units/pers_camel_props.xml" attachpoint="props_main"/>
+      </props>
+      <textures>
+        <texture file="skeletal/animal_camel.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="100" name="Idle"/>
+    <variant file="quadraped/base_camel_death.xml"/>
+    <variant file="quadraped/base_camel_run.xml"/>
+  </group>
+  <material>player_trans.xml</material>
+</actor>
