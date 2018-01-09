@@ -9,17 +9,17 @@
       <Crush>5.0</Crush>
     </Melee>
   </Attack>
+  <Builder>
+    <Entities datatype="tokens">
+      -structures/{civ}_temple
+    </Entities>
+  </Builder>
   <Cost>
     <Resources>
       <food op="add">-25</food>
       <metal op="add">25</metal>
     </Resources>
   </Cost>
-  <Builder>
-    <Entities datatype="tokens">
-      -structures/{civ}_temple
-    </Entities>
-  </Builder>
   <Identity>
     <Civ>kush</Civ>
     <SelectionGroupName>units/kush_infantry_clubman_b</SelectionGroupName>

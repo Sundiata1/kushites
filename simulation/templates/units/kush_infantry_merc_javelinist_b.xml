@@ -3,17 +3,17 @@
   <Armour>
     <Hack op="add">-1</Hack>
   </Armour>
+  <Builder>
+    <Entities datatype="tokens">
+      -structures/{civ}_temple
+    </Entities>
+  </Builder>
   <Cost>
     <Resources>
       <food op="add">-25</food>
       <metal op="add">25</metal>
     </Resources>
   </Cost>
-  <Builder>
-    <Entities datatype="tokens">
-      -structures/{civ}_temple
-    </Entities>
-  </Builder>
   <Identity>
     <Civ>kush</Civ>
     <SelectionGroupName>units/kush_merc_infantry_2</SelectionGroupName>
