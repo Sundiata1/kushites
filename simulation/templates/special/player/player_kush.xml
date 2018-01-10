@@ -4,8 +4,8 @@
   <EntityLimits>
     <Limits>
       <KushTrireme>1</KushTrireme>
-      <PyramidSmall>5</PyramidSmall>
-      <PyramidLarge>3</PyramidLarge>
+      <PyramidSmall>4</PyramidSmall>
+      <PyramidLarge>2</PyramidLarge>
     </Limits>
     <LimitChangers>
       <KushTrireme>
