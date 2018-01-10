@@ -23,7 +23,6 @@
     <Civ>kush</Civ>
     <GenericName>Temple of Amun</GenericName>
     <SpecificName>Temple of Amun</SpecificName>
-    <Tooltip>Train healers. Garrison units to heal them at a quick rate (3 HP per second). Research special technologies.</Tooltip>
     <Classes datatype="tokens">TempleOfAmun</Classes>
   </Identity>
   <Obstruction>
