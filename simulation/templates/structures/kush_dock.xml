@@ -12,13 +12,9 @@
     <Static width="22.0" depth="20.0"/>
   </Obstruction>
   <ProductionQueue>
-    <Entities datatype="tokens">
-      units/{civ}_ship_bireme
-      units/{civ}_ship_trireme
-    </Entities>
     <Technologies datatype="tokens">
-		-armor_ship_hullsheathing
-	</Technologies>
+      -armor_ship_hullsheathing
+    </Technologies>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/kushites/dock.xml</Actor>

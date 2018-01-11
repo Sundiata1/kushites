@@ -4,23 +4,19 @@
     <Square width="38.0" depth="38"/>
     <Height>8.0</Height>
   </Footprint>
-  <Obstruction>
-    <Static width="36.0" depth="36"/>
-  </Obstruction>
   <Identity>
     <Civ>kush</Civ>
     <SpecificName>Kota Pasagi</SpecificName>
   </Identity>
+  <Obstruction>
+    <Static width="36.0" depth="36"/>
+  </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}_infantry_spearman_b
       units/{civ}_infantry_archer_b
       units/{civ}_cavalry_javelinist_b
     </Entities>
-    <Technologies datatype="tokens">
-	  unlock_spies
-	  spy_counter
-    </Technologies>
   </ProductionQueue>
   <VisualActor>
     <Actor>structures/kushites/civic_centre_kush.xml</Actor>

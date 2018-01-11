@@ -10,6 +10,9 @@
       <stone>500</stone>
     </Resources>
   </Cost>
+  <Footprint>
+    <Square width="32.0" depth="62.0"/>
+  </Footprint>
   <GarrisonHolder>
     <Max>30</Max>
   </GarrisonHolder>
@@ -20,12 +23,8 @@
     <Civ>kush</Civ>
     <GenericName>Temple of Amun</GenericName>
     <SpecificName>Temple of Amun</SpecificName>
-    <Tooltip>Train healers. Garrison units to heal them at a quick rate (3 HP per second). Research special technologies.</Tooltip>
     <Classes datatype="tokens">TempleOfAmun</Classes>
   </Identity>
-  <Footprint>
-    <Square width="32.0" depth="62.0"/>
-  </Footprint>
   <Obstruction>
     <Static width="28" depth="56.0"/>
   </Obstruction>
@@ -34,8 +33,7 @@
       units/{civ}_champion_infantry_amun
     </Entities>
     <Technologies datatype="tokens">
-		kushites/monumental_architecture
-		kushites/upgrade_rank_elite_healer
+      kushites/upgrade_rank_elite_healer
     </Technologies>
   </ProductionQueue>
   <VisualActor>

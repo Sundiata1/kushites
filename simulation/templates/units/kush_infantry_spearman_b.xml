@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee_spearman">
+  <Armour>
+    <Hack op="add">-1</Hack>
+  </Armour>
   <Builder>
     <Entities datatype="tokens">
       structures/kush_pyramid_1
@@ -9,9 +12,6 @@
       -structures/{civ}_temple
     </Entities>
   </Builder>
-  <Armour>
-    <Hack op="add">-1</Hack>
-  </Armour>
   <Identity>
     <Civ>kush</Civ>
     <SelectionGroupName>units/kush_infantry_spearman_b</SelectionGroupName>
