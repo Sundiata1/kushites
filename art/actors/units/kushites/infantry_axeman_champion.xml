@@ -10,12 +10,8 @@
         <prop actor="props/units/heads/head_kush_meroitic.xml" attachpoint="head"/>
         <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/axe_twohanded_mauryan.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/shields/rome_scutum_su.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/kush_egyptian_cow.xml" attachpoint="shield"/>
       </props>
-    </variant>
-  </group>
-  <group>
-    <variant name="Kushite Champion Sword Infantry 01">
       <textures>
         <texture file="skeletal/kush_pike_e_01.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_01_spec.png" name="specTex"/>
@@ -50,7 +46,7 @@
       <props>
         <prop actor="props/units/blood_01.xml" attachpoint="root"/>
       </props>
-	</variant>
+    </variant>
   </group>
   <material>player_trans.xml</material>
 </actor>

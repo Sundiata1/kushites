@@ -11,6 +11,6 @@
     <RequiredTechnology>unlock_females_house</RequiredTechnology>
   </Identity>
   <VisualActor>
-    <Actor>units/kushites/nuba_woman.xml</Actor>
+    <Actor>units/nubians/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>

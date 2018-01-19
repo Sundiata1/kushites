@@ -26,6 +26,6 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <Actor>units/kushites/sudan_camel_raider.xml</Actor>
+    <Actor>units/kushites/camelry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>

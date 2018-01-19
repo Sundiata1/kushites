@@ -11,6 +11,6 @@
     <Icon>units/ptol_hero_cleopatra.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/kushites/hero_amanirenas.xml</Actor>
+    <Actor>units/kushites/infantry_archer_hero_amanirenas.xml</Actor>
   </VisualActor>
 </Entity>

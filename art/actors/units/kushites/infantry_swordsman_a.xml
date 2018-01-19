@@ -8,18 +8,27 @@
         <prop actor="props/units/heads/ptol_quilted_b.xml" attachpoint="helmet"/>
         <prop actor="props/units/heads/head_kush_meroitic.xml" attachpoint="head"/>
         <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
-        <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/gladus.xml" attachpoint="weapon_R"/>
       </props>
-    </variant>
-  </group>
-  <group>
-    <variant name="Kushite Advanced Sword Infantry Leather 01">
       <textures>
         <texture file="skeletal/kush_pike_a_01.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_a_01_spec.png" name="specTex"/>
       </textures>
     </variant>
+  </group>
+  <group>
+    <group>
+      <variant frequency="1" name="beja-shield">
+        <props>
+          <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield"/>
+        </props>
+      </variant>
+      <variant frequency="1" name="numidian-shield">
+        <props>
+          <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
+        </props>
+      </variant>
+    </group>
   </group>
   <group>
     <variant frequency="1" name="Idle"/>

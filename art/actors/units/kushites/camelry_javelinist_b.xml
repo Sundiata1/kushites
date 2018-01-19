@@ -4,7 +4,7 @@
   <group>
     <variant frequency="1" file="quadraped/base_camel.xml" name="Base">
       <props>
-        <prop actor="units/kushites/sudan_camel_raider_r.xml" attachpoint="props_main"/>
+        <prop actor="units/kushites/camelry_javelinist_b_r.xml" attachpoint="props_main"/>
       </props>
       <textures>
         <texture file="skeletal/ptol_camel_e.png" name="baseTex"/>

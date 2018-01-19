@@ -17,7 +17,7 @@
       </animations>
       <mesh>skeletal/elephant_african_forest.dae</mesh>
       <props>
-        <prop actor="units/kushites/champion_elephant_r.xml" attachpoint="rider"/>
+        <prop actor="units/kushites/elephant_champion_r.xml" attachpoint="rider"/>
       </props>
       <textures>
         <texture file="skeletal/kush_champion_elephant_01.png" name="baseTex"/>

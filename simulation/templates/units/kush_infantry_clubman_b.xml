@@ -38,6 +38,6 @@
     </Run>
   </UnitMotion>
   <VisualActor>
-    <Actor>units/kushites/nuba_clubman_b.xml</Actor>
+    <Actor>units/kushites/infantry_clubman_b.xml</Actor>
   </VisualActor>
 </Entity>
