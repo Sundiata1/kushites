@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="100" name="Mauryan Two-Handed Ax">
-      <mesh>props/maur_2h_axe.dae</mesh>
+      <mesh>props/kush_axe.dae</mesh>
       <textures>
         <texture file="props/weapon/prop_weap_bronze.png" name="baseTex"/>
       </textures>
