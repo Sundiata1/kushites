@@ -5,7 +5,7 @@
     <variant file="quadraped/base_horse_swordsman.xml" frequency="1" name="Base">
       <mesh>skeletal/horse.dae</mesh>
       <props>
-        <prop actor="units/kushites/hero_nastasen_r.xml" attachpoint="rider"/>
+        <prop actor="units/kushites/cavalry_spearman_hero_nastasen_r.xml" attachpoint="rider"/>
         <prop actor="props/units/horse/horse_chest_colorband.xml" attachpoint="chest"/>
       </props>
     </variant>
