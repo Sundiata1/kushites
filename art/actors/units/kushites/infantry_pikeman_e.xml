@@ -5,26 +5,92 @@
     <variant file="biped/pikeman_base.xml">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <props>
-        <prop actor="props/units/helmets/kush_metal_01.xml" attachpoint="helmet"/>
+        <prop actor="props/units/heads/ptol_quilted_b.xml" attachpoint="helmet"/>
         <prop actor="props/units/heads/head_kush_meroitic.xml" attachpoint="head"/>
         <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
-        <prop actor="props/units/shields/ptol_pike_e.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/sarissa.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>
   <group>
-    <variant name="Kushite Elite Pike Infantry 01">
+    <variant frequency="1" name="Kushite Elite Pike Infantry 01">
       <textures>
         <texture file="skeletal/kush_pike_e_01.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_01_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant name="Kushite Elite Pike Infantry 02">
+    <variant frequency="1" name="Kushite Elite Pike Infantry 02">
       <textures>
         <texture file="skeletal/kush_pike_e_02.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_01_spec.png" name="specTex"/>
       </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 03">
+      <textures>
+        <texture file="skeletal/kush_pike_e_03.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_03_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 04">
+      <textures>
+        <texture file="skeletal/kush_pike_e_04.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_04_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 05">
+      <textures>
+        <texture file="skeletal/kush_pike_e_05.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_03_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 06">
+      <textures>
+        <texture file="skeletal/kush_pike_e_06.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_03_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 07">
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/kush_pike_e_07.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_05_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 08">
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/kush_pike_e_08.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_06_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 09">
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/kush_pike_e_09.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_06_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Kushite Elite Pike Infantry 10">
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <textures>
+        <texture file="skeletal/kush_pike_e_10.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_05_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="3" name="head-meroitic">
+      <props>
+        <prop actor="props/units/heads/head_kush_meroitic.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="head-default">
+      <props>
+        <prop actor="props/units/heads/new/head_african_1.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
+      </props>
     </variant>
   </group>
   <group>

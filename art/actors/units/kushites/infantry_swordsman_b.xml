@@ -66,7 +66,7 @@
     </variant>
     <variant frequency="1" name="numidian-shield">
       <props>
-        <prop actor="props/units/shields/numidian_round_1.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/numidian_round_3.xml" attachpoint="shield"/>
       </props>
     </variant>
   </group>
