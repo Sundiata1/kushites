@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.79.0 commit date:2017-09-11, commit time:10:43, hash:5bd8ac9</authoring_tool>
+    </contributor>
+    <created>2018-01-21T15:13:42</created>
+    <modified>2018-01-21T15:13:42</modified>
+    <unit name="inch" meter="0.0254"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="Blade-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.2597955 0.2597955 0.2597955 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">1 1 1 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="Blade-material" name="Blade">
+      <instance_effect url="#Blade-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Plano_031-mesh" name="Plano.031">
+      <mesh>
+        <source id="Plano_031-mesh-positions">
+          <float_array id="Plano_031-mesh-positions-array" count="63">-0.009440362 -0.0288338 0.003273725 0.02451682 -0.01780128 0.003273725 -0.009440362 0.0288338 0.003273725 0.02451682 0.01780128 0.003273725 -0.03036373 0 0.003273725 -0.003173172 -0.04726207 0.09249365 0.00813961 -0.02917844 0.09249365 -0.003173172 0.04726207 0.09249365 0.00813961 0.02917838 0.09249365 -0.01014375 0 0.09249365 -0.003495454 -0.02117627 1.063551 0.009487211 -0.01307368 1.063551 -0.00440067 0.02117627 1.063551 0.009487211 0.01307368 1.063551 -0.01149499 0 0.6561433 9.76826e-5 0 1.347791 -0.002851724 0.03524267 1.189638 0.006150305 -0.02175796 1.189638 0.006150305 0.02175796 1.189638 -0.007375121 0 0.7822303 -0.002218484 -0.03524267 1.189638</float_array>
+          <technique_common>
+            <accessor source="#Plano_031-mesh-positions-array" count="21" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plano_031-mesh-normals">
+          <float_array id="Plano_031-mesh-normals-array" count="63">-0.1754859 0.9811342 -0.08112025 -0.9999524 -0.007690727 0.006012201 0.8740472 0.4856259 -0.01446622 0.7035689 -0.4352404 -0.5617443 0.9434966 0.3313759 0.002075254 0.9435385 -0.3312578 0.001861631 -0.3104381 0.7525957 -0.5807133 0.7035689 0.4352404 -0.5617443 -0.3104381 -0.7525957 -0.5807133 -0.9993101 0 0.03714144 -0.8591393 0 -0.5117419 -0.1756073 -0.9810695 -0.08163875 0.8740472 0.4858395 -0.001312315 0.9541267 -0.2982046 0.02676546 0.8810346 -0.473051 -9.15583e-4 0.8439469 -0.5360084 -0.02118027 0.9486765 0.315137 0.02649027 -0.9992861 -0.01986789 0.03213655 -0.2777228 0.9593645 0.0498985 -0.2540434 -0.9657557 0.05270695 -0.009674489 -0.001709043 0.9999518</float_array>
+          <technique_common>
+            <accessor source="#Plano_031-mesh-normals-array" count="21" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plano_031-mesh-map-0">
+          <float_array id="Plano_031-mesh-map-0-array" count="228">0.9894895 0.8188533 0.928805 0.8007512 0.8849422 0.8088621 0.9990952 0.7897357 0.9894895 0.8188065 0.9894895 0.7826955 0.9990952 0.8117949 0.9894895 0.8188065 0.9990952 0.8117663 0.9990952 0.7897074 0.9894895 0.8007512 0.9990952 0.8007512 0.9990952 0.8117949 0.9894895 0.8007512 0.9894895 0.8188533 0.9990952 0.7897074 0.9894895 0.7826955 0.9894895 0.782649 0.8849422 0.808841 0.8713672 0.7872874 0.8849422 0.7926611 0.9894895 0.7826955 0.8849422 0.7926402 0.9894895 0.782649 0.9894895 0.8188065 0.8849422 0.7926611 0.9894895 0.7826955 0.9894895 0.8188065 0.8849422 0.8088621 0.8849422 0.808841 0.9894895 0.782649 0.928805 0.8007512 0.9894895 0.8007512 0.8849422 0.8088621 0.8713672 0.8142148 0.8849422 0.808841 0.8849422 0.7926402 0.9152301 0.8007512 0.928805 0.8007512 0.8849422 0.8088621 0.9152301 0.8007512 0.8713672 0.8142497 0.8849422 0.7926402 0.8713672 0.7872874 0.8713672 0.7872526 0.9152301 0.8007512 0.8713672 0.7872526 0.8543398 0.8007512 0.8713672 0.7872874 0.8713672 0.8142148 0.8543398 0.8007512 0.8713672 0.8142497 0.9152301 0.8007512 0.8543398 0.8007512 0.8713672 0.7872526 0.8713672 0.7872874 0.8543398 0.8007512 0.8713672 0.8142148 0.8713672 0.8142497 0.8543398 0.8007512 0.9990952 0.8117949 0.9990952 0.7897357 0.9990952 0.8007512 0.9894895 0.8188533 0.9894895 0.8007512 0.928805 0.8007512 0.9990952 0.7897357 0.9990952 0.8117663 0.9894895 0.8188065 0.9990952 0.8117949 0.9894895 0.8188533 0.9894895 0.8188065 0.9990952 0.7897074 0.9894895 0.782649 0.9894895 0.8007512 0.9990952 0.8117949 0.9990952 0.8007512 0.9894895 0.8007512 0.9990952 0.7897074 0.9990952 0.7897357 0.9894895 0.7826955 0.8849422 0.808841 0.8713672 0.8142148 0.8713672 0.7872874 0.9894895 0.7826955 0.8849422 0.7926611 0.8849422 0.7926402 0.9894895 0.8188065 0.8849422 0.808841 0.8849422 0.7926611 0.9894895 0.8188065 0.9894895 0.8188533 0.8849422 0.8088621 0.9894895 0.782649 0.8849422 0.7926402 0.928805 0.8007512 0.8849422 0.8088621 0.8713672 0.8142497 0.8713672 0.8142148 0.8849422 0.7926402 0.8713672 0.7872526 0.9152301 0.8007512 0.8849422 0.8088621 0.928805 0.8007512 0.9152301 0.8007512 0.8849422 0.7926402 0.8849422 0.7926611 0.8713672 0.7872874 0.9990952 0.7897074 0.9990952 0.8007512 0.9990952 0.7897357 0.9990952 0.8117949 0.9990952 0.8117663 0.9990952 0.7897357</float_array>
+          <technique_common>
+            <accessor source="#Plano_031-mesh-map-0-array" count="114" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Plano_031-mesh-vertices">
+          <input semantic="POSITION" source="#Plano_031-mesh-positions"/>
+        </vertices>
+        <triangles material="Blade-material" count="38">
+          <input semantic="VERTEX" source="#Plano_031-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Plano_031-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Plano_031-mesh-map-0" offset="2" set="0"/>
+          <p>7 0 0 14 1 1 12 2 2 1 3 3 8 4 4 6 5 5 2 6 6 8 4 7 3 7 8 0 8 9 9 9 10 4 10 11 2 6 12 9 9 13 7 0 14 0 8 15 6 5 16 5 11 17 13 12 18 17 13 19 11 14 20 6 5 21 10 15 22 5 11 23 8 4 24 11 14 25 6 5 26 8 4 27 12 2 28 13 12 29 5 11 30 14 1 31 9 9 32 12 2 33 18 16 34 13 12 35 10 15 36 19 17 37 14 1 38 12 2 39 19 17 40 16 18 41 10 15 42 17 13 43 20 19 44 19 17 45 20 19 46 15 20 47 17 13 48 18 16 49 15 20 50 16 18 51 19 17 52 15 20 53 20 19 54 17 13 55 15 20 56 18 16 57 16 18 58 15 20 59 2 6 60 1 3 61 4 10 62 7 0 63 9 9 64 14 1 65 1 3 66 3 7 67 8 4 68 2 6 69 7 0 70 8 4 71 0 8 72 5 11 73 9 9 74 2 6 75 4 10 76 9 9 77 0 8 78 1 3 79 6 5 80 13 12 81 18 16 82 17 13 83 6 5 84 11 14 85 10 15 86 8 4 87 13 12 88 11 14 89 8 4 90 7 0 91 12 2 92 5 11 93 10 15 94 14 1 95 12 2 96 16 18 97 18 16 98 10 15 99 20 19 100 19 17 101 12 2 102 14 1 103 19 17 104 10 15 105 11 14 106 17 13 107 0 8 108 4 10 109 1 3 110 2 6 111 3 7 112 1 3 113</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Spear_Blade_Kushite" name="Spear_Blade_Kushite" type="NODE">
+        <matrix sid="transform">1.6 0 0 0 0 1.6 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Plano_031-mesh" name="Spear_Blade_Kushite">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Blade-material" target="#Blade-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+        <extra>
+          <technique profile="blender">
+            <Copiar_posición_constraint>
+              <type sid="type" type="int">9</type>
+              <enforce sid="enforce" type="float">1</enforce>
+              <flag sid="flag" type="int">512</flag>
+              <headtail sid="headtail" type="float">0</headtail>
+              <lin_error sid="lin_error" type="float">0</lin_error>
+              <own_space sid="own_space" type="int">0</own_space>
+              <rot_error sid="rot_error" type="float">0</rot_error>
+              <tar_space sid="tar_space" type="int">0</tar_space>
+              <lin_error sid="lin_error" type="float">0</lin_error>
+              <target_id sid="target_id" type="string">prop-blade</target_id>
+            </Copiar_posición_constraint>
+            <Copiar_rotación_constraint>
+              <type sid="type" type="int">8</type>
+              <enforce sid="enforce" type="float">1</enforce>
+              <flag sid="flag" type="int">528</flag>
+              <headtail sid="headtail" type="float">0</headtail>
+              <lin_error sid="lin_error" type="float">0</lin_error>
+              <own_space sid="own_space" type="int">0</own_space>
+              <rot_error sid="rot_error" type="float">0</rot_error>
+              <tar_space sid="tar_space" type="int">0</tar_space>
+              <lin_error sid="lin_error" type="float">0</lin_error>
+              <target_id sid="target_id" type="string">prop-blade</target_id>
+            </Copiar_rotación_constraint>
+          </technique>
+        </extra>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
