@@ -6,4 +6,7 @@
   <Promotion>
     <Entity>units/kush_infantry_merc_javelinist_e</Entity>
   </Promotion>
+  <VisualActor>
+    <Actor>units/nubians/infantry_javelinist_a.xml</Actor>
+  </VisualActor>
 </Entity>
