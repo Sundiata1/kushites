@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="triple-ostrich-feather">
+    <variant frequency="1" name="triple-ostrich-feathers">
       <mesh>props/heads/feather_ostrich_1.dae</mesh>
       <props>
         <prop actor="props/units/heads/kush_nubian_ostrich_feathers_a.xml" attachpoint="root"/>
