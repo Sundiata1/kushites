@@ -6,6 +6,7 @@
       <mesh>skeletal/new/m_tunic_long.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_kush_nubian_red.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/kush_nubian_ostrich_feathers_a.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_L"/>
         <prop actor="props/units/kush_quiver_hip.xml" attachpoint="sheath_L"/>
