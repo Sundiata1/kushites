@@ -22,7 +22,7 @@
   <Identity>
     <Civ>kush</Civ>
     <GenericName>Temple of Amun</GenericName>
-    <SpecificName>Temple of Amun</SpecificName>
+    <SpecificName>Pr-‘Imn</SpecificName>
     <Classes datatype="tokens">TempleOfAmun</Classes>
   </Identity>
   <Obstruction>

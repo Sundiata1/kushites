@@ -2,7 +2,7 @@
 <Entity parent="template_structure_civic_house_big">
   <Identity>
     <Civ>kush</Civ>
-    <SpecificName>Kushite Manor</SpecificName>
+    <SpecificName>Pr</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/kushites/house.xml</Actor>

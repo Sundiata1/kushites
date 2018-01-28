@@ -27,7 +27,7 @@
   <Identity>
     <Civ>kush</Civ>
     <GenericName>Large Pyramid</GenericName>
-    <SpecificName>Large Pyramid</SpecificName>
+    <SpecificName>mr ‘3</SpecificName>
     <Classes datatype="tokens">-ConquestCritical PyramidLarge</Classes>
     <VisibleClasses datatype="tokens">-City Town Pyramid</VisibleClasses>
     <Classes datatype="tokens">Pyramid</Classes>

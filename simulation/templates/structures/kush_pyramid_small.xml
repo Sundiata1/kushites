@@ -25,7 +25,7 @@
   <Identity>
     <Civ>kush</Civ>
     <GenericName>Small Pyramid</GenericName>
-    <SpecificName>Small Pyramid</SpecificName>
+    <SpecificName>mr</SpecificName>
     <Classes datatype="tokens">-ConquestCritical PyramidSmall</Classes>
     <VisibleClasses datatype="tokens">-City Village Pyramid</VisibleClasses>
     <Classes datatype="tokens">Pyramid</Classes>
