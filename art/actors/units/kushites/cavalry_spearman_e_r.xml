@@ -6,7 +6,7 @@
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <props>
         <prop actor="props/units/heads/ptol_quilted_b.xml" attachpoint="helmet"/>
-        <prop actor="props/units/heads/head_kush_nubian_red.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/head_kush_meroitic.xml" attachpoint="head"/>
         <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/spear.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/kush_beja_rhino.xml" attachpoint="shield"/>
@@ -37,6 +37,20 @@
         <texture file="skeletal/kush_pike_e_06.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_03_spec.png" name="specTex"/>
       </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="3" name="head-meroitic">
+      <props>
+        <prop actor="props/units/heads/head_kush_meroitic.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="head-default">
+      <props>
+        <prop actor="props/units/heads/new/head_african_1.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
+      </props>
     </variant>
   </group>
   <group>
