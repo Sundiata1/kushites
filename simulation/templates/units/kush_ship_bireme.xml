@@ -5,6 +5,6 @@
     <Icon>units/ptol_ship_bireme.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/ptolemies/bireme.xml</Actor>
+    <Actor>structures/kushites/warship_light.xml</Actor>
   </VisualActor>
 </Entity>
