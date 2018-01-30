@@ -6,7 +6,7 @@
     <SpecificName>Meroe Temple Guard</SpecificName>
     <VisibleClasses datatype="tokens">Axe</VisibleClasses>
     <Classes datatype="tokens">ApedemakGuard</Classes>
-    <Icon>units/ptol_champion_infantry.png</Icon>
+    <Icon>units/kush_champion_apedemak.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/kushites/infantry_axeman_champion.xml</Actor>
