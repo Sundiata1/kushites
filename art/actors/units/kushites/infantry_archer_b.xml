@@ -9,8 +9,8 @@
         <prop actor="props/units/heads/kush_dread_hair.xml" attachpoint="head"/>
         <prop actor="props/units/heads/kush_nubian_ostrich_feathers_b.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_bow"/>
-        <prop actor="props/units/quiver_hip.xml" attachpoint="sheath_L"/>
+        <prop actor="props/units/weapons/bow_bamboo_long.xml" attachpoint="weapon_bow"/>
+        <prop actor="props/units/kush_quiver_hip.xml" attachpoint="sheath_L"/>
       </props>
       <textures>
         <texture file="skeletal/ptol_iar_01.png" name="baseTex"/>
