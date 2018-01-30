@@ -28,7 +28,7 @@
     </variant>
     <variant frequency="1" name="kush_champion_03_lightskin">
       <props>
-        <prop actor="props/units/heads/new/head_african_1.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/head_kush_nubian.xml" attachpoint="head"/>
       </props>
       <textures>
         <texture file="skeletal/kush_champion_infantry_03.png" name="baseTex"/>
@@ -37,7 +37,7 @@
     </variant>
     <variant frequency="1" name="kush_champion_04_lightskin">
       <props>
-        <prop actor="props/units/heads/new/head_african_1.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/head_kush_nubian.xml" attachpoint="head"/>
       </props>
       <textures>
         <texture file="skeletal/kush_champion_infantry_04.png" name="baseTex"/>
