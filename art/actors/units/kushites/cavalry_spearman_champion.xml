@@ -6,7 +6,7 @@
       <mesh>skeletal/horse.dae</mesh>
       <props>
         <prop actor="units/kushites/cavalry_spearman_champion_r.xml" attachpoint="rider"/>
-        <prop actor="props/units/horse/crest_1.xml" attachpoint="head"/>
+        <prop actor="props/horse/kush_crest_black.xml" attachpoint="head"/>
       </props>
     </variant>
   </group>

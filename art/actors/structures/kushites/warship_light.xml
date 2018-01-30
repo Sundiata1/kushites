@@ -7,7 +7,7 @@
       <mesh>structural/ptol_ship_merchant.dae</mesh>
       <props>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="projectile"/>
-        <prop actor="props/structures/ptolemies/merchant_sail.xml" attachpoint="root"/>
+        <prop actor="props/structures/kushites/bireme_sail.xml" attachpoint="root"/>
         <prop actor="props/structures/ptolemies/merchant_tent.xml" attachpoint="root"/>
       </props>
       <textures>
