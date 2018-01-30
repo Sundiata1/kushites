@@ -5,7 +5,7 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Civ>ptol</Civ>
+    <Civ>kush</Civ>
     <SpecificName>Htm</SpecificName>
   </Identity>
   <Obstruction>
@@ -13,9 +13,9 @@
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
+      -units/{civ}_mechanical_siege_tower
       units/{civ}_champion_infantry
       units/{civ}_champion_cavalry
-      units/{civ}_champion_elephant
       units/{civ}_hero_nastasen
       units/{civ}_hero_amanirenas
       units/{civ}_hero_arakamani
