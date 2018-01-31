@@ -11,7 +11,7 @@
     <VisibleClasses datatype="tokens">Camel</VisibleClasses>
     <SelectionGroupName>units/kush_camel_javelinist_b</SelectionGroupName>
     <GenericName>Blemmye Desert Raider</GenericName>
-    <SpecificName>Blemmye Desert Raider</SpecificName>
+    <SpecificName>nhw Bulahau gml</SpecificName>
     <Icon>units/kush_merc_camelry.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
