@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/kush_camelry_javelinist_a">
   <Identity>
+    <Civ>kush</Civ>
+    <SpecificName>nhw Bulahau gml</SpecificName>
+  <Identity>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
