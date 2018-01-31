@@ -3,14 +3,14 @@
   <Auras datatype="tokens">teambonuses/kush_player_team_bonus</Auras>
   <EntityLimits>
     <Limits>
-      <KushTrireme>2</KushTrireme>
+      <KushTrireme>6</KushTrireme>
       <PyramidSmall>4</PyramidSmall>
       <PyramidLarge>2</PyramidLarge>
     </Limits>
-    <LimitChangers>
+    <LimitRemovers>
       <KushTrireme>
-        <Nastasen>100</Nastasen>
+        <RequiredClasses datatype="tokens">Nastasen</RequiredClasses>
       </KushTrireme>
-    </LimitChangers>
+    </LimitRemovers>
   </EntityLimits>
 </Entity>
