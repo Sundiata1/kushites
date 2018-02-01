@@ -21,8 +21,8 @@
   <Identity>
     <Civ>kush</Civ>
     <SelectionGroupName>units/kush_merc_infantry_2</SelectionGroupName>
-    <GenericName>Nuba Hunter</GenericName>
-    <SpecificName>Nuba Hunter</SpecificName>
+    <GenericName>Nuba Skirmisher</GenericName>
+    <SpecificName>nhw ‘h3w Noba</SpecificName>
     <Icon>units/kush_infantry_merc_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
