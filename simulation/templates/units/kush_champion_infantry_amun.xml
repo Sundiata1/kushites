@@ -3,7 +3,7 @@
   <Identity>
     <Civ>kush</Civ>
     <GenericName>Napatan Temple Guard</GenericName>
-    <SpecificName>Napatan Temple Guard</SpecificName>
+    <SpecificName>rs ‘Imn</SpecificName>
     <Classes datatype="tokens">AmunGuard</Classes>
     <Icon>units/kush_champion_amun.png</Icon>
   </Identity>
