@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/kush_cavalry_javelinist_a">
   <Identity>
+	    <Civ>kush</Civ>
+	    <SpecificName>iry hr ssmwtt</SpecificName>
+  <Identity>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
