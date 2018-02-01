@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/kush_infantry_swordsman_a">
   <Identity>
+	    <Civ>kush</Civ>
+	    <GenericName>Meroitic Swordsman</GenericName>
+	    <SpecificName>knw hps</SpecificName>
+  <Identity>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
