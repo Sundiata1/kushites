@@ -6,6 +6,7 @@
       <KushTrireme>6</KushTrireme>
       <PyramidSmall>4</PyramidSmall>
       <PyramidLarge>2</PyramidLarge>
+      <KushPyramid>6</KushPyramid>
     </Limits>
     <LimitRemovers>
       <KushTrireme>

@@ -5,10 +5,10 @@
   </Armour>
   <Builder>
     <Entities datatype="tokens">
-      structures/kush_range
-	  structures/kush_stable
-	  structures/kush_elephant_stables
-	  structures/kush_workshop
+      structures/kush_pyramid_small
+      structures/kush_pyramid_large
+      structures/kush_temple_amun
+      structures/kush_temple_apedemak
       -structures/{civ}_temple
     </Entities>
   </Builder>

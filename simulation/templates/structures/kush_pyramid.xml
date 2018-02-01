@@ -6,15 +6,15 @@
     structures/kush_pyramids_military
   </Auras>
   <BuildRestrictions>
-    <Category>PyramidLarge</Category>
+    <Category>KushPyramid</Category>
   </BuildRestrictions>
   <Cost>
     <BuildTime>300</BuildTime>
     <Resources>
       <food>0</food>
       <wood>0</wood>
-      <stone>400</stone>
-      <metal>400</metal>
+      <stone>300</stone>
+      <metal>300</metal>
     </Resources>
   </Cost>
   <Footprint>
@@ -26,9 +26,9 @@
   </Health>
   <Identity>
     <Civ>kush</Civ>
-    <GenericName>Large Pyramid</GenericName>
+    <GenericName>Kushite Pyramid</GenericName>
     <SpecificName>mr ‘3</SpecificName>
-    <Classes datatype="tokens">-ConquestCritical PyramidLarge</Classes>
+    <Classes datatype="tokens">-ConquestCritical KushPyramid</Classes>
     <VisibleClasses datatype="tokens">-City Town Pyramid</VisibleClasses>
     <Classes datatype="tokens">Pyramid</Classes>
     <RequiredTechnology>phase_city</RequiredTechnology>
@@ -63,7 +63,7 @@
     <Range>40</Range>
   </Vision>
   <VisualActor>
-    <Actor>structures/kushites/pyramid_large.xml</Actor>
+    <Actor>structures/kushites/pyramid.xml</Actor>
     <FoundationActor>structures/fndn_4x6.xml</FoundationActor>
   </VisualActor>
 </Entity>

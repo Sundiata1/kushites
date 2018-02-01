@@ -14,19 +14,19 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 01">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 01">
       <textures>
         <texture file="skeletal/kush_pike_e_01.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_01_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 02">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 02">
       <textures>
         <texture file="skeletal/kush_pike_e_02.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_01_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 03">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 03">
       <props>
         <prop actor="props/units/heads/head_kush_nubian.xml" attachpoint="head"/>
       </props>
@@ -35,25 +35,25 @@
         <texture file="skeletal/kush_pike_e_03_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 04">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 04">
       <textures>
         <texture file="skeletal/kush_pike_e_04.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_04_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 05">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 05">
       <textures>
         <texture file="skeletal/kush_pike_e_05.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_03_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 06">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 06">
       <textures>
         <texture file="skeletal/kush_pike_e_06.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_03_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 07">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 07">
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_kush_nubian.xml" attachpoint="head"/>
@@ -63,14 +63,14 @@
         <texture file="skeletal/kush_pike_e_05_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 08">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 08">
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <textures>
         <texture file="skeletal/kush_pike_e_08.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_06_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 09">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 09">
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_kush_nubian.xml" attachpoint="head"/>
@@ -80,7 +80,7 @@
         <texture file="skeletal/kush_pike_e_06_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 10">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 10">
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_kush_nubian.xml" attachpoint="head"/>
@@ -90,8 +90,18 @@
         <texture file="skeletal/kush_pike_e_05_spec.png" name="specTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Kushite Elite Pike Infantry 11">
+    <variant frequency="2" name="Kushite Elite Pike Infantry 11">
       <mesh>skeletal/new/m_armor_dress.dae</mesh>
+      <textures>
+        <texture file="skeletal/kush_pike_e_11.png" name="baseTex"/>
+        <texture file="skeletal/kush_pike_e_01_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Officer - Kushite Elite Pike Infantry 11">
+      <mesh>skeletal/new/m_armor_dress.dae</mesh>
+      <props>
+        <prop actor="props/units/helmets/kush_skull_cap.xml" attachpoint="helmet"/>
+      </props>
       <textures>
         <texture file="skeletal/kush_pike_e_11.png" name="baseTex"/>
         <texture file="skeletal/kush_pike_e_01_spec.png" name="specTex"/>

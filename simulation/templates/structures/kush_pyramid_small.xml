@@ -44,7 +44,7 @@
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_temple_10.xml</select>
-      <constructed>interface/alarm/alarm_phase.xml</constructed>
+      <constructed>interface/complete/building/complete_iber_monument.xml</constructed>
     </SoundGroups>
   </Sound>
   <StatusBars>

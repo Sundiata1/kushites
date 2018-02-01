@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant file="biped/base_archer_ready.xml">
-      <mesh>skeletal/new/m_tunic_long.dae</mesh>
+      <mesh>skeletal/new/m_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_kush_meroitic.xml" attachpoint="head"/>
         <prop actor="props/units/heads/kush_dread_hair.xml" attachpoint="head"/>
@@ -12,9 +12,13 @@
         <prop actor="props/units/weapons/bow_bamboo_long.xml" attachpoint="weapon_bow"/>
         <prop actor="props/units/kush_quiver_hip.xml" attachpoint="sheath_L"/>
       </props>
+    </variant>
+  </group>
+  <group>
+    <variant name="Kushite Basic Spear Infantry 01">
       <textures>
-        <texture file="skeletal/ptol_iar_01.png" name="baseTex"/>
-        <texture file="skeletal/ptol_iar_01_spec.png" name="specTex"/>
+        <texture file="skeletal/kush_basic_nubian.png" name="baseTex"/>
+        <texture file="skeletal/kush_basic_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
