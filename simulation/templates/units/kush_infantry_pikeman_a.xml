@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/kush_infantry_pikeman_b">
   <Identity>
+	    <Civ>kush</Civ>
+	    <GenericName>Meroitic Pikeman</GenericName>
+	    <SpecificName>si3wrd</SpecificName>
+  <Identity>
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
