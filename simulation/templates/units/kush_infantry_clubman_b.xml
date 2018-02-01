@@ -28,7 +28,7 @@
     <Civ>kush</Civ>
     <SelectionGroupName>units/kush_infantry_clubman_b</SelectionGroupName>
     <GenericName>Nuba Clubman</GenericName>
-    <SpecificName>Nuba Clubman</SpecificName>
+    <SpecificName>nhw Noba</SpecificName>
     <Icon>units/kush_infantry_clubman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
