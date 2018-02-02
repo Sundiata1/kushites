@@ -6,7 +6,8 @@
   </Footprint>
   <Identity>
     <Civ>kush</Civ>
-    <SpecificName>Nile Trading Barge</SpecificName>
+    <GenericName>Nile Trading Barge</GenericName>
+	  <SpecificName>D3y sbt</SpecificName>
     <Icon>units/pers_ship_merchant.png</Icon>
   </Identity>
   <VisualActor>
