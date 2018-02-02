@@ -3,7 +3,7 @@
   <Identity>
     <Civ>kush</Civ>
     <GenericName>Kushite Siege Tower</GenericName>
-	  <SpecificName>iwn n ms</SpecificName>
+    <SpecificName>iwn n ms</SpecificName>
     <Icon>units/hele_mechanical_siege_tower.png</Icon>
   </Identity>
   <VisualActor>
