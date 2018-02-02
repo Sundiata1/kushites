@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/kush_support_female_citizen">
+  <Identity>
+	    <Civ>kush</Civ>
+	    <GenericName>Kushite Woman</GenericName>
+	    <SpecificName>Shmt</SpecificName>
   <Cost>
     <BuildTime>30</BuildTime>
   </Cost>
