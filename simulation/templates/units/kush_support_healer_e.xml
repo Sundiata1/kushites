@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/kush_support_healer_a">
   <Identity>
+	    <Civ>kush</Civ>
+	    <GenericName>Priest</GenericName>
+	    <SpecificName>w’b nsw</SpecificName>
+  <Identity>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
