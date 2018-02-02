@@ -7,7 +7,7 @@
   <Identity>
     <Civ>kush</Civ>
     <GenericName>Nile Trading Barge</GenericName>
-    F<SpecificName>D3y sbt</SpecificName>
+    <SpecificName>D3y sbt</SpecificName>
     <Icon>units/pers_ship_merchant.png</Icon>
   </Identity>
   <VisualActor>
