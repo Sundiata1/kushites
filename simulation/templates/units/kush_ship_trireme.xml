@@ -3,7 +3,7 @@
   <Identity>
     <Civ>kush</Civ>
     <GenericName>Great Warship</GenericName>
-	  <SpecificName>shry ‘3</SpecificName>
+    <SpecificName>shry ‘3</SpecificName>
     <Icon>units/ptol_ship_trireme.png</Icon>
   </Identity>
   <TrainingRestrictions>
